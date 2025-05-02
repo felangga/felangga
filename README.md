@@ -21,7 +21,7 @@ Here are some projects I've worked on:
 ## Contact
 - **Email:** [felangga@gmail.com](mailto:felangga@gmail.com)
 - **LinkedIn:** [Felix Angga](https://www.linkedin.com/in/felangga/)
-- **Blog:** [www.felangga.com](www.felangga.com)
+- **Blog:** [www.felangga.com](https://www.felangga.com)
 
 Feel free to reach out if you have any questions or if you would like to collaborate on a project!
 
