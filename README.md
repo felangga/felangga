@@ -13,7 +13,7 @@ I'm also a big fan of Vintage Electronics and I'm also doing some restoration pr
 Here are some projects I've worked on:
 - **[Chiko TUI gRPC Client](https://github.com/felangga/chiko):** An ultimate beauty gRPC Client on your Terminal!
 - **[SlametRadio](https://github.com/felangga/slametradio):** A custom firmware for SI4735 Radio.
-- **[Macintosh Classic II Restoration](https://www.felangga.com/2023/05/macintosh-classic-ii-restoration.html):** A restoration on Macintosh Classic II story
+- **[Macintosh Classic II Restoration](https://felangga.com/macintosh-classic-ii-restoration/):** A restoration on Macintosh Classic II story
 - **[see other projects](https://github.com/felangga?tab=repositories)**
 
 
